@@ -16,5 +16,6 @@ public class Ejercicio8 {
     }
     public static int cualFalta(int[] numeros){
         return -1;
+
     }
 }
